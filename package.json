@@ -1,0 +1,11 @@
+{
+  "name": "keerthipriya-portfolio",
+  "version": "1.0.0",
+  "description": "Professional DevOps Engineer Portfolio",
+  "scripts": {
+    "build": "echo 'No build required for static site'",
+    "deploy": "echo 'Deploying static site'"
+  },
+  "author": "Keerthi Priya Kota",
+  "license": "MIT"
+}
