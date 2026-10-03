@@ -1,0 +1,4 @@
+# Cloudflare Pages redirects and rewrites
+
+# Fallback to index.html for SPA-like behavior (optional)
+/*    /index.html   200
